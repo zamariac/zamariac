@@ -2,9 +2,10 @@
 
 Just a junior-mid plus engineer loving code and working with designers! Check out some of my most recent code, send me a code review or buy me a beer, or hire me!
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zamariac" data-color="#FFDD00" data-emoji="🍺" data-font="Cookie" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://github.com/zamariac/zamariac/assets/12178749/ab820f7a-b4eb-4fca-b8db-d68356d94dec)"  width="60%" height="30%">
 
-<!--
+<!--![bmc_qr (2)](https://github.com/zamariac/zamariac/assets/12178749/ab820f7a-b4eb-4fca-b8db-d68356d94dec)
+
 **zamariac/zamariac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
