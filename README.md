@@ -1,4 +1,4 @@
-### Hi y'all 👋
+### Hi ya'll 👋
 
 Just a junior-mid plus engineer loving code and working with designers! Check out some of my most recent code, send me a code review or buy me a beer, or hire me!
 
