@@ -2,7 +2,7 @@
 
 Just a junior-mid plus engineer loving code and working with designers! Check out some of my most recent code, send me a code review or buy me a beer, or hire me!
 
-![bmc_qr](https://github.com/zamariac/zamariac/assets/12178749/410bd47e-1731-4823-89a8-06dffa2d4301 width="10" height="10")
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zamariac" data-color="#FFDD00" data-emoji="🍺" data-font="Cookie" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 <!--
 **zamariac/zamariac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
