@@ -2,7 +2,7 @@
 
 Just a junior-mid plus engineer loving code and working with designers! Check out some of my most recent code, send me a code review or buy me a beer, or hire me!
 
-![bmc_qr](https://github.com/zamariac/zamariac/assets/12178749/8c65b8ab-210a-4549-b7a0-827beaa14d3e)
+![bmc_qr](https://github.com/zamariac/zamariac/assets/12178749/8c65b8ab-210a-4549-b7a0-827beaa14d3e | 20x20)
 
 **zamariac/zamariac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
