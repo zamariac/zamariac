@@ -1,6 +1,6 @@
 ### Hi ya'll 👋
 
-Just a junior engineer loving code and working with designers! 
+Just a junior+ engineer loving code and working with designers! 
 I have years of experience working with tech companies, creative agencies and freelancing! 
 
 Check out some of my most recent code, send me a code review, buy me a beer, or hire me!
