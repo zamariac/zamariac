@@ -3,7 +3,7 @@
 I'm full stack engineer loving code and working with designers! 
 I have years of experience working with tech companies, creative agencies and freelancing! 
 
-Check out some of my most recent code, send me a code review, buy me a beer, or hire me!
+Check out some of my most recent code, send me a code review, buy me a coffee, or hire me!
 
 <img src="https://github.com/zamariac/zamariac/assets/12178749/89cf25bc-7ed6-4ab8-80c8-f5559f1e0cd6" width="110" height="110">
 
