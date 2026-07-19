@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-I'm full stack engineer loving code and working with designers! 
+Full stack engineer here, loving code and working with designers! 
 I have years of experience working with tech companies, creative agencies and freelancing! 
 
 Check out some of my most recent code, send me a code review, buy me a coffee, or hire me, en español o ingles!
